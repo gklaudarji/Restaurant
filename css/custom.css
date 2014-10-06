@@ -6,6 +6,7 @@ position: absolute;
 right: 0;
 text-align: center;
 width: 601px;
+background: #f8f8ed url(images/top-img-2.jpg) center top repeat-x;
 }
 .navbar{
   background: url("images/stripes.png") repeat scroll 0 0 transparent;
@@ -16,4 +17,5 @@ width: 601px;
   padding-left: 0;
   position: absolute;
   width: 100%;
+  text-align: center;
 }
