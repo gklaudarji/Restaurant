@@ -1,13 +1,11 @@
-header{ background: #f8f8ed url(images/top-img-2.jpg) center top repeat-x;
-  height: 187px;
-left: 0;
-margin: auto;
-padding-top: 55px;
-position: absolute;
-right: 0;
-text-align: center;
-width: 601px;
-
+header{ height: 187px;
+  left: 0;
+  margin: auto;
+  padding-top: 55px;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  width: 601px
 }
 .navbar{
   background: url("images/stripes.png") repeat scroll 0 0 transparent;
