@@ -22,12 +22,11 @@ width: 100%;
 text-align:center;
 }
 
-.welcome-msg {margin: auto; text-align: -webkit-center;
-}
+
 .row .col-md-3 {img-align: center
-  text-align:center;
+  text-align:auto;
 }
-h4, h5 {text-align: right;
+h4, h5 {text-align: auto;
   font-weight: bold; Font-variant: normal;
   Font-family: "century", Century, serif;
   text-decoration: underline
