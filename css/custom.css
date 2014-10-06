@@ -14,13 +14,8 @@ header{ height: 187px;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
 height: 40px;
-margin: 260px auto auto;
-padding-left: 0;
-position: absolute;
-width: 100%;
-text-align:center;
 }
-.col-md-4{text-align:center
+.col-md-4 {text-align:center
 margin:auto auto;}
 
 h4, h5 {text-align: center;
