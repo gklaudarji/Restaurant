@@ -7,16 +7,15 @@ header{ height: 187px;
   text-align: center;
   width: 601px
 }
-.navbar{
-  background: url("images/stripes.png") repeat scroll;
-  border-bottom: 1px solid #CACACA;
-  border-top: 1px solid #CACACA;
-  height: 40px;
-  margin: 260px auto auto;
-  padding-left: 0;
-  position: absolute;
-  width: 100%;
-  text-align: center;
+.navbar-fixed{
+  background: url("images/stripes.png") repeat scroll 0 0 transparent;
+border-bottom: 1px solid #CACACA;
+border-top: 1px solid #CACACA;
+height: 40px;
+margin: 260px auto auto;
+padding-left: 0;
+position: absolute;
+width: 100%;
 }
 
 .welcome-msg {margin: auto; text-align: -webkit-center;
