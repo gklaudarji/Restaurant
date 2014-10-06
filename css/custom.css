@@ -10,7 +10,7 @@ header{ height: 187px;
   text-align: center;
   width: 601px
 }
-.navbar-fixed{
+.navbar{
   background: url("images/stripes.png") repeat scroll 0 0 ;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
@@ -29,4 +29,7 @@ text-align:center;
 }
 h4, h5 {text-align: center;
   font-weight: bold; Font-variant: normal;
+}
+header, .navbar{
+  Position: fixed; Position: absolute;
 }
