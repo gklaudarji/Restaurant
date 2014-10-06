@@ -29,6 +29,7 @@ text-align:center;
 }
 h4, h5 {text-align: center;
   font-weight: bold; Font-variant: normal;
+  Font-family: "century", Century, serif;
 }
 header, .navbar{
   Position: fixed;
