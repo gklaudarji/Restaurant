@@ -21,6 +21,6 @@ header{ height: 187px;
 
 .welcome-msg {margin: auto; text-align: -webkit-center;
 }
-.col-md-3{
+.row .col-md-3 {img-align: center
   text-align:center;
 }
