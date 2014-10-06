@@ -28,3 +28,5 @@ h4, h5 {text-align: center;
   Font-family: "century", Century, serif;
   text-decoration: underline
 }
+.jumbotron{background: transparent;
+border:solid;}
