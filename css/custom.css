@@ -2,5 +2,5 @@
 .navbar { text-align: center
 }
 header {
-  Background:#f8f8ed; url(images/top-img-2.jpg); center top repeat-x; height:280px;
+  Background:#f8f8ed url(images/top-img-2.jpg) center top repeat-x 
 }
