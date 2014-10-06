@@ -14,6 +14,11 @@ header{ height: 187px;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
 height: 40px;
+margin: 260px auto auto;
+padding-left: 0;
+position: absolute;
+
+
 }
 .col-md-4 {text-align:center
 margin:auto auto;}
