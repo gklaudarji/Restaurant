@@ -16,6 +16,7 @@ margin: 260px auto auto;
 padding-left: 0;
 position: absolute;
 width: 100%;
+text-align:center;
 }
 
 .welcome-msg {margin: auto; text-align: -webkit-center;
