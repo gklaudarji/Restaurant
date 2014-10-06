@@ -25,5 +25,5 @@ header{ height: 187px;
   text-align:center;
 }
 h4, h5 {
-  font-style: bold; Font-variant: caps;
+  font-weight: bold; Font-variant: normal;
 }
