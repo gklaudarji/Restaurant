@@ -31,5 +31,5 @@ h4, h5 {text-align: center;
   font-weight: bold; Font-variant: normal;
 }
 header, .navbar{
-  Position: fixed; Position: absolute;
+  Position: fixed;
 }
