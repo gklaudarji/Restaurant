@@ -27,7 +27,7 @@ text-align:center;
 .row .col-md-3 {img-align: center
   text-align:center;
 }
-h4, h5 {text-align: center;
+h4, h5 {text-align: right;
   font-weight: bold; Font-variant: normal;
   Font-family: "century", Century, serif;
   text-decoration: underline
