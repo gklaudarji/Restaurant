@@ -8,7 +8,7 @@ header{ height: 187px;
   width: 601px
 }
 .navbar{
-  background: url("images/stripes.png") repeat scroll 0 0 transparent;
+  background: url("images/stripes.png") repeat scroll;
   border-bottom: 1px solid #CACACA;
   border-top: 1px solid #CACACA;
   height: 40px;
@@ -17,4 +17,10 @@ header{ height: 187px;
   position: absolute;
   width: 100%;
   text-align: center;
+}
+.footer{
+  margin: 0px;
+color: #aaa;
+background: #f8f8ed url(images/cross-stripes.png) bottom repeat;
+border-top: 1px solid #CACACA;
 }
