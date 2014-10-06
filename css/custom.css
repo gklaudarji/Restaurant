@@ -1,11 +1,8 @@
-.logo {
-   position: absolute;
-}
+
 
 header{ position: absolute;
   text-align:center
   margin:auto;
-  
 }
 .navbar{
   background: url("images/stripes.png") repeat scroll 0 0 transparent;
