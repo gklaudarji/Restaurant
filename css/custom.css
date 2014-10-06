@@ -8,7 +8,7 @@ text-align: center;
 width: 601px;
 background: #f8f8ed url(images/top-img-2.jpg) center top repeat-x;
 }
-.navbar{
+ul, .navbar{
   background: url("images/stripes.png") repeat scroll 0 0 transparent;
   border-bottom: 1px solid #CACACA;
   border-top: 1px solid #CACACA;
