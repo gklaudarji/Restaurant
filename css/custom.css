@@ -24,7 +24,7 @@ color: #aaa;
 background: #f8f8ed url(images/cross-stripes.png) bottom repeat;
 border-top: 1px solid #CACACA;
 }
-.welcome-msg{
+.welcome-msg{margin: auto;
   display: block;
 text-align: -webkit-center;
 }
