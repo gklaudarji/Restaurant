@@ -24,3 +24,6 @@ header{ height: 187px;
 .row .col-md-3 {img-align: center
   text-align:center;
 }
+h4, h5 {
+  font-style: bold; Font-variant: caps;
+}
