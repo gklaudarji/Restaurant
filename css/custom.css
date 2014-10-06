@@ -23,8 +23,7 @@ text-align:center;
 }
 
 
-.col-md-4 {position: center
-width:100% ;
+.col-md-4 {position: auto;
   text-align:center;
 }
 h4, h5 {text-align: center;
