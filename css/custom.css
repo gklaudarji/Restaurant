@@ -1,6 +1,4 @@
-body{
-  background:#FFFFCC ;
-}
+
 .logo { height: 187px;
   left: 0;
   margin: auto;
@@ -30,4 +28,3 @@ h4, h5 {text-align: center;
 }
 .jumbotron{background: transparent;
 border:solid;}
-.container, .container-fluid{ width:;}
