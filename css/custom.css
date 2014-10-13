@@ -1,8 +1,5 @@
 
-body{
-  margin: 50;
-  border: 1px solid
-}
+
 .logo { height: 187px;
   left: 0;
   margin: auto;
@@ -12,14 +9,7 @@ body{
   text-align: center;
   width: 601px
 }
-.navbar{
-border-bottom: 1px solid #CACACA;
-border-top: 1px solid #CACACA;
-height: 40px;
-margin: 260px auto auto auto;
-padding-left: 0;
 
-}
 .col-md-4 {text-align:center}
 
 h4, h5 {text-align: center;
