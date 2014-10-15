@@ -19,7 +19,6 @@
   </head>
   
   <body>
-  <div class="container">
   <header>
     <div class="logo container">
       <img src="http://crowncandykitchen.net/wp-content/themes/crowncandy/images/crownlogo.png" class="img-responsive" alt="responsive image">
@@ -42,39 +41,37 @@
     </div>
   </div>
   </div>
-  <div class="container">
-  <div id="carousel" class="carousel slide" data-ride="carousel">
+  
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li  data-slide-to="2"></li>
+    <li data-target="myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="myCarousel" data-slide-to="1"></li>
+    <li data-target="myCarousel" data-slide-to="2"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="tumblr_crowncandy.png" alt="image-responsive">
+      <img src="tumblr_crowncandy.png" alt="first slide">
+    </div>
+    
+    <div class="item active">
+      <img src="maltsnshakes.jpeg" alt="second slide">
       <div class="carousel-caption">
         ...
       </div>
     </div>
     <div class="item active">
-      <img src="maltsnshakes.jpeg" alt="img-responsive">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div>
-    <div class="item active">
-      <img src="sundae.jpeg" alt="image-responsive">
+      <img src="sundae.jpeg" alt="third slide">
     </div>
   </div>
 
   <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
   </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
