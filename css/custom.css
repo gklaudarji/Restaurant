@@ -22,7 +22,7 @@ border-top: 1px solid #CACACA;
 height: 40px;
 }
 .nav-button{
-  align:center;
+  float:center;
 }
 col-md-4{
   text-align:center;
