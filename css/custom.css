@@ -1,8 +1,9 @@
 body{
-  Border: solid;
-  background:;
-  margin-left:100px;
-  margin-right:100px;
+  Border-left-style: solid;
+  border-right-style:solid;
+  background:#F8F8EE;
+  margin-left:150px;
+  margin-right:150px;
 }
 
 .logo { height: 250px;
@@ -26,9 +27,9 @@ h4, h5 {text-align: center;
   text-decoration: underline
 }
 .jumbotron{background: transparent;
-border:solid;
-  text-align:center;
+border:;
+text-align:center;
 }
 ul{
-  border: solid;
+  border-style: solid;
 }
