@@ -25,9 +25,16 @@ height: 40px;
   float:center;
 }
 col-md-4{
-  position:center;
+  Text-align:center;
+  margin:auto;
 }
-h4, h5 {text-align:left;
+.action{text-align:center;
+  font-weight: bold; Font-variant: normal;
+  Font-family: "century", Century, serif;
+  text-decoration: underline
+  
+}
+h4, h5, {text-align:left;
   font-weight: bold; Font-variant: normal;
   Font-family: "century", Century, serif;
   text-decoration: underline
