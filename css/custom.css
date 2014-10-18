@@ -25,7 +25,7 @@ height: 40px;
   float:center;
 }
 col-md-4{
-  text-align:center;
+  align:center;
 }
 h4, h5 {text-align:left;
   font-weight: bold; Font-variant: normal;
@@ -37,7 +37,7 @@ border:;
 text-align:center;
 }
 
-.footer {
+.footer_wrap {
   background:#f8f8ed;
   border-top:solid 2px;
 }
