@@ -37,6 +37,6 @@ text-align:center;
   background:#f8f8ed;
   border-top:solid 2px;
 }
-.container{
-  margin:auto;
+.carousel-inner{
+  position:center;
 }
