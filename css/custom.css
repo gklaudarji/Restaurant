@@ -1,9 +1,9 @@
 body{
   Border-left-style: solid;
   border-right-style:solid;
-  background:#F8F8EE;
-  margin-left:150px;
-  margin-right:150px;
+  background:;
+  margin-left:50px;
+  margin-right:50px;
  
 }
 
@@ -16,6 +16,7 @@ body{
   width: 601px
 }
 .navbar{
+  width:auto;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
 height: 40px;
