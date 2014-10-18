@@ -21,9 +21,7 @@ border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
 height: 40px;
 }
-.navbar-nav{
-  float:center;
-}
+
 col-md-4{
   align:center;
 }
@@ -31,7 +29,6 @@ col-md-4{
   font-weight: bold; Font-variant: normal;
   Font-family: "century", Century, serif;
   text-decoration: underline
-  
 }
 h4, h5{text-align:left;
   font-weight: bold; Font-variant: normal;
@@ -57,4 +54,7 @@ margin:auto;
 }
 .carousel{
 align:center;
+}
+._blank{
+  position:center;
 }
