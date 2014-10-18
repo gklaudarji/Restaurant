@@ -39,4 +39,5 @@ text-align:center;
 }
 .carousel-inner{
   margin-left:150px;
+  width: auto;
 }
