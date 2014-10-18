@@ -25,7 +25,7 @@ height: 40px;
   float:center;
 }
 col-md-4{
-  Text-align:center;
+  align:center;
   margin:auto;
 }
 .action{text-align:center;
@@ -45,6 +45,7 @@ text-align:center;
 }
 
 .footer_wrap {
+  position:center;
   background:#f8f8ed;
   border-top:solid 2px;
 }
