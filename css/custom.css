@@ -34,10 +34,10 @@ col-md-4{
   text-decoration: underline
   
 }
-h4, h5, {text-align:left;
+h4, h5{text-align:left;
   font-weight: bold; Font-variant: normal;
   Font-family: "century", Century, serif;
-  text-decoration: underline
+  text-decoration: underline;
 }
 .jumbotron{background: transparent;
 border:;
