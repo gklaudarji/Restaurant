@@ -1,5 +1,5 @@
 body{
-  Border-left-style: solid;
+  border-left-style: solid;
   border-right-style:solid;
   background:;
   margin-left:50px;
@@ -16,8 +16,7 @@ body{
   width: 601px
 }
 .navbar{
-  buttons:center
-  width:auto;
+width:auto;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
 height: 40px;
@@ -34,4 +33,7 @@ border:;
 text-align:center;
 }
 
-
+.footer {
+  background:#f8f8ed;
+  boarder-top:solid 2px;
+}
