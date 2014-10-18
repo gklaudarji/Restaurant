@@ -16,6 +16,7 @@ body{
   width: 601px
 }
 .navbar{
+  buttons:center
   width:auto;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
