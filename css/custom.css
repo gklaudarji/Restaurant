@@ -15,7 +15,7 @@ body{
   text-align: center;
   width: 601px
 }
-.nav{
+.nav, .navbar-nav,.nav-button {
 width:auto;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
