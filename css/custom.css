@@ -15,12 +15,14 @@ body{
   text-align: center;
   width: 601px
 }
-.nav, .navbar-nav,.nav-button {
+.navbar {
 width:auto;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
 height: 40px;
-align:center;
+}
+.nav-button{
+  align:center;
 }
 col-md-4{
   text-align:center;
