@@ -6,9 +6,9 @@ body{
   width:auto ;
  
 }
-img {
+.crownlogo {
   align: center;
-  
+  width:auto;
 }
 .logo { height: 250px;
   left: 0;
