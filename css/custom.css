@@ -46,8 +46,10 @@ text-align:center;
   background:#f8f8ed;
   border-top:solid #CACACA;
 }
-.carousel-inner{
+.carousel-inner> .active {
   margin: auto;
+  align:center;
+  width: auto;
 }
 .menu{
 margin:auto;
