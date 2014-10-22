@@ -47,13 +47,13 @@ text-align:center;
   border-top:solid #CACACA;
 }
 .carousel-inner{
-  margin-left:150px;
+  margin: auto;
   width: auto;
 }
 .menu{
 margin:auto;
 }
-.carousel{
+# myCarousel {
 align:center;
 }
 ._blank{
