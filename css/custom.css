@@ -6,8 +6,11 @@ body{
   width:auto ;
  
 }
-
-.logo, img { height: 250px;
+img {
+  align: center;
+  
+}
+.logo { height: 250px;
   left: 0;
   margin: auto;
   padding-top: 55px;
