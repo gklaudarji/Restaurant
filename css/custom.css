@@ -23,7 +23,7 @@ body{
   align: center;
   width: auto;
 }
-.navbar, .navbar-toggle, icon-bar{
+.navbar, .navbar-toggle, .icon-bar{
 width:auto;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
