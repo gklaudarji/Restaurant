@@ -7,8 +7,13 @@ body{
  
 }
 .crownlogo {
+  height: auto;
+  left: 0;
+  margin: auto;
+  padding-top: auto;
+  right: 0;
   align: center;
-  width:auto;
+  width: auto;
 }
 .logo { height: 250px;
   left: 0;
