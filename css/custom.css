@@ -23,7 +23,7 @@ body{
   align: center;
   width: auto;
 }
-.navbar, .navbar.toggle{
+.navbar, .navbar-toggle{
 width:auto;
 border-bottom: 1px solid #CACACA;
 border-top: 1px solid #CACACA;
