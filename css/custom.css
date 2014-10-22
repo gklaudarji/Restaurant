@@ -48,14 +48,11 @@ text-align:center;
 }
 .carousel-inner{
   margin: auto;
-  width: auto;
-  background: transparent;
-  align: center
 }
 .menu{
 margin:auto;
 }
-.carousel {
+.carousel-control {
 align:center;
 background: transparent;
 }
